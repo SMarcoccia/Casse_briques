@@ -1,0 +1,29 @@
+﻿# Le dossier des sprites.
+
+
+# Le dossier audio.
+
+
+# Le dossier .vscode
+.vscode
+
+# Tous les .dll
+
+
+# Tous les exécutables.
+
+
+# Les fichiers :
+
+# 	- Tous les .o :
+*.o
+
+# 	- Le highscors : 
+*.src
+
+#	- .png dans le dossier principal
+
+*.png
+
+#	- .psd dans le dossier principal
+*.psd
