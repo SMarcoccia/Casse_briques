@@ -6,7 +6,10 @@
 
 
 
-# <center><u> __Tutoriel_Arkanoid_v2_Clement_Corde__</u></center>
+# <center><u> __Tutoriel_Arkanoid__</u></center>
+
+## Info : 
+  - Jeu créé par Clement Corde que je suis en train d'étudié.
 
 ## breaker.c :
 
